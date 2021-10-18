@@ -8,11 +8,6 @@ Explore, clean, and reformat the data before answering the problems. The explora
 
 Similarly, after massaging our data and crunching numbers, we kept track of our work in a Jupyter Notebook dedicated specifically to analysis.
 
-## Team Effort
-
-Before anything, remember that Projects are a **group effort**: Working closely with your teammates is a requirement. This both helps teach real-world collaborative workflows, and enables you to tackle more difficult problems than you'd be able to working alone.
-
-In other words, working in groups allows you to **work smart** and **dream big**. Take advantage of it!
 
 ## Project Proposal
 
@@ -28,5 +23,10 @@ In other words, working in groups allows you to **work smart** and **dream big**
 
 After analyzing our data, we created visualizations to put our data in a presentable format.
 
-![Alt text](https://user-images.githubusercontent.com/79487358/137815077-91f408f3-9c09-4375-ae18-63e3224e10ab.png "Optional title")
+![Alt text](https://user-images.githubusercontent.com/79487358/137815077-91f408f3-9c09-4375-ae18-63e3224e10ab.png)
 
+![Box Plot of Genres as per Ratings](https://user-images.githubusercontent.com/79487358/137815158-11fcbf9c-23ac-4ae7-bd46-8c7a660b6a7c.png)
+![Histogram Ratings as per the nymber of movies](https://user-images.githubusercontent.com/79487358/137815159-da7b7a26-f1bd-4574-8e14-380565e080d5.png)
+![Line Graph for number of movies produced per year](https://user-images.githubusercontent.com/79487358/137815161-17353271-3070-4b0e-9a84-27bc38f43e85.png)
+![Pie Chart is for  average votes as per Genre](https://user-images.githubusercontent.com/79487358/137815163-b1986e37-7a2e-41b1-9e47-255b1446330a.png)
+![Scatter Chart of ratings as per the votes](https://user-images.githubusercontent.com/79487358/137815165-e90d30fd-0a49-4c32-9c6e-020dfdbf0213.png)
